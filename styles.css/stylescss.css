@@ -152,9 +152,10 @@ img{
     line-height: 1.5;
     font-size: 16px;
     padding: 16px 32px;
-    
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     margin: 0 auto;
     display: block;
+    border: none;
 }
 
 .button-text:hover,
@@ -339,13 +340,10 @@ img{
     width: 104px;
     height: 56px;
   }
-  .customer-icon,
-  .customer-item,
-  .customer-icon-container:hover {
+  .customer-item:hover {
     color: #404bbf;
   }
-  .customer-icon,
-  .customer-item,
+  .customer-item 
   .customer-icon-container:focus {
     color: #404bbf;
   }
