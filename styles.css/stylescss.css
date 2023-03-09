@@ -343,13 +343,10 @@ img{
     width: 104px;
     height: 56px;
   }
-  .customer-item:focus,
-  .customer-item:hover {
-    color: #404bbf;
-    border-color: #404bbf ;
-  }
   
-  .customer-icon-container:focus {
+  
+  .customer-icon-container:focus,
+  .customer-icon-container:hover {
     color: #404bbf;
   }
 
