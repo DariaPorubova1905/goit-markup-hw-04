@@ -342,10 +342,12 @@ img{
   }
   .customer-item:hover {
     color: #404bbf;
+    border-color: #404bbf ;
   }
   .customer-item 
   .customer-icon-container:focus {
     color: #404bbf;
+    border-color: #404bbf ;
   }
 
 .footer{
