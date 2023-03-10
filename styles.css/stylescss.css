@@ -338,6 +338,7 @@ img{
     
     border: 1px solid;
     border-radius: 4px;
+    fill: currentColor
   }
   .customer-icon {
     width: 104px;
